@@ -1,0 +1,4 @@
+interface:
+  display_name: "Write a clear PR"
+  short_description: "Explain PR outcomes, evidence, and meaningful gaps"
+  default_prompt: "Use $write-pr to write or improve this pull request title and body for a reviewer who has not seen our conversation."
